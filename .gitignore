@@ -1,0 +1,6 @@
+# Arquivos compilados e gerados pelo BlueJ
+*.class
+*.ctxt
+*~
+bluej.pkh
+doc/
